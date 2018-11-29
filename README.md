@@ -10,4 +10,4 @@
   + 4개의 동시 터치 가능한 기능. (JumpGame Screen)
   + 점수 제도
 3. 화면 디자인
-![Alt text](/path/to/p_title.png)
+![Alt text](./img/p_title.png)
